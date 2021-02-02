@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MaksGovor&theme=blue-green" alt="MaksGovor" /></p>
+
 <a href="https://t.me/Maksgovorrr" target="_blank" title="Telegram"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="@Maksgovorrr"/></a> 
 
 <!--
