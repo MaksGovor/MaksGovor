@@ -2,7 +2,8 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MaksGovor&show_icons=true" alt="MaksGovor" /></p>
 
-<a href="https://t.me/Maksgovorrr" target="_blank" title="Telegram"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&show_icons=true" alt="@Maksgovorrr"/></a> 
+
+<p align="center"><a href="https://t.me/Maksgovorrr" target="_blank" title="Telegram"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&show_icons=true" alt="@Maksgovorrr"/></a> </p>
 
 <!--
 **MaksGovor/MaksGovor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
