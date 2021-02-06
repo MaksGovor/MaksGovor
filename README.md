@@ -16,6 +16,8 @@ Work with:
 <img align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="@Maksgovorrr"/>
 </p>
 
+Contact: 
+
 <p align="center"><a href="https://t.me/Maksgovorrr" target="_blank" title="Telegram"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&show_icons=true" alt="@Maksgovorrr"/></a>
 <a href="https://twitter.com/MaximGovoruha" target="_blank" title="Twitter"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="MaximGovoruha"/></a> </p>
 
