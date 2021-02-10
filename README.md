@@ -24,7 +24,9 @@ Work with:
 Contact: 
 
 <p align="center"><a href="https://t.me/Maksgovorrr" target="_blank" title="Telegram"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&show_icons=true" alt="@Maksgovorrr"/></a>
-<a href="https://twitter.com/MaximGovoruha" target="_blank" title="Twitter"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="MaximGovoruha"/></a> </p>
+<a href="https://twitter.com/MaximGovoruha" target="_blank" title="Twitter"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="MaximGovoruha"/></a> 
+<a href="https://www.instagram.com/maksgovorrr/?hl=ru" target="_blank" title="Instagram"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@maksgovorrr"/></a>   
+</p>
 
 <!--
 **MaksGovor/MaksGovor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
