@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MaksGovor&show_icons=true" alt="MaksGovor" /></p>
 
-## Contact: 
+### Contact: 
 
 <p align="center"><a href="https://t.me/Maksgovorrr" target="_blank" title="Telegram"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&show_icons=true" alt="@Maksgovorrr"/></a>
 <a href="https://twitter.com/MaximGovoruha" target="_blank" title="Twitter"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="MaximGovoruha"/></a> 
