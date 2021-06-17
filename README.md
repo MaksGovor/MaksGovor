@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MaksGovor&show_icons=true" alt="MaksGovor" /></p>
 
