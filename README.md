@@ -1,6 +1,5 @@
 ## Hi there
 
-<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaksGovor&theme=nord_bright" alt="MaksGovor" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MaksGovor&show_icons=true" alt="MaksGovor" /></p>
 
 <p align="center"><a href="https://t.me/Maksgovorrr" target="_blank" title="Telegram"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&show_icons=true" alt="@Maksgovorrr"/></a>
