@@ -62,12 +62,12 @@
 | Async contracts        | JavaScript & Node.js specific  | Theory              | Techniques               |
 |------------------------|--------------------------------|---------------------|--------------------------|
 | 🟩 Callback-last       | 🟩 Timers                      | 🟩 Event Loop       | ⬜ async.js library      |
-| 🟩 Error-first         | 🟩 setImmediate                | 🟩 Async error      | ⬜ Async composition     |
+| 🟩 Error-first         | 🟩 setImmediate                | 🟩 Async error      | 🟩 Async composition     |
 | 🟩 Promise             | 🟩 nextTick                    | 🟩 try..catch       | ⬜ Rx.js                 |
 | 🟩 Async function      | ⬜ AbortController             | 🟩 Non-blocking     | 🟩 Sequential async      |
-| 🟩 await               | 🟦 Promise unhandled rejection | 🟦 Async I/O        | 🟩 Parallel async        |
+| 🟩 await               | 🟦 Promise unhandled rejection | 🟩 Async I/O        | 🟩 Parallel async        |
 | 🟩 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟩 Promise.all           |
-| 🟩 Async Generator     | 🟩 child_process               | ⬜ CAS operations   | 🟦 Promise.allSettled    |
+| 🟩 Async Generator     | 🟩 child_process               | ⬜ CAS operations   | 🟩 Promise.allSettled    |
 | 🟩 Async Iterator      | 🟩 worker_threads              | ⬜ epoll            | 🟩 Promise.race          |
 | 🟩 Thenable            | 🟩 Atomics                     | ⬜ kqueue           | 🟩 Promise.any           |
 | 🟩 EventEmitter        | 🟩 Blockeing operations        | ⬜ Completion ports | ⬜ Web Locks API         |
