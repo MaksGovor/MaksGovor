@@ -1,11 +1,16 @@
-## Hi there
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MaksGovor&show_icons=true" alt="MaksGovor" /></p>
-
-<p align="center"><a href="https://t.me/Maksgovorrr" target="_blank" title="Telegram"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&show_icons=true" alt="@Maksgovorrr"/></a>
-<a href="https://twitter.com/MaximGovoruha" target="_blank" title="Twitter"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="MaximGovoruha"/></a> 
-<a href="https://www.instagram.com/maksgovorrr/?hl=ru" target="_blank" title="Instagram"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="@maksgovorrr"/></a>   
-</p>
+<code>🎓 Student: KPI / IP-93</code>
+<code>⚪ Community: [Scopics](https://github.com/Scopics), [ICS](https://github.com/Intelligent-Cloud-System)</code>
+<code>👷 Speciality: Software engineer / FullStack</code><br>
+<code>💡 [Skills](SKILLS.md)</code>
+<code>🧻 [Projects](PROJECTS.md)</code>
+<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
+<code>🧑‍💻 Languages: main: JavaScript, TypeScript / also used: Go, Scala, С#, С++</code>
+<code>📦 Tech stack: backend: node.js, loopback, nestJS / frontend: React, React Native </code><br>
+<code>🪙 [Rates](RATES.md)</code>
+<code>👨‍🎓 [Education](EDUCATION.md)</code><br>
+<code>💬 telegram: [@MaksGovorrr](https://telegram.me/MaksGovorrr)</code>
+<code>📫 [maksgovruha@gmail.com](mailto:maksgovruha@gmail.com)</code>
 
 <!--
 **MaksGovor/MaksGovor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
