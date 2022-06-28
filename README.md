@@ -4,11 +4,11 @@
 <code>👷 Speciality: Software engineer / FullStack</code><br>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧻 [Projects](PROJECTS.md)</code>
-<code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
-<code>🧑‍💻 Languages: main: JavaScript, TypeScript / also used: Go, Scala, С#, С++</code>
-<code>📦 Tech stack: backend: node.js, loopback, nestJS / frontend: React, React Native</code>
+<code>👀 [Open-source contribution](CONTRIBUTION.md)</code>
 <code>🪙 [Rates](RATES.md)</code>
 <code>👨‍🎓 [Education](EDUCATION.md)</code><br>
+<code>🧑‍💻 Languages: main: JavaScript, TypeScript / also used: Go, Scala, С#, С++</code><br>
+<code>📦 Tech stack: backend: node.js, loopback, nestJS / frontend: React, React Native</code><br>
 <code>💬 telegram: [@MaksGovorrr](https://telegram.me/MaksGovorrr)</code>
 <code>📫 [maksgovruha@gmail.com](mailto:maksgovruha@gmail.com)</code>
 
