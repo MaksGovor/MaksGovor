@@ -65,8 +65,8 @@
 | 🟩 Error-first         | 🟩 setImmediate                | 🟩 Async error      | 🟩 Async composition     |
 | 🟩 Promise             | 🟩 nextTick                    | 🟩 try..catch       | ⬜ Rx.js                 |
 | 🟩 Async function      | ⬜ AbortController             | 🟩 Non-blocking     | 🟩 Sequential async      |
-| 🟩 await               | 🟦 Promise unhandled rejection | 🟩 Async I/O        | 🟩 Parallel async        |
-| 🟩 Generator           | 🟦 Promise double resolve      | 🟦 Pattern Reactor  | 🟩 Promise.all           |
+| 🟩 await               | 🟩 Promise unhandled rejection | 🟩 Async I/O        | 🟩 Parallel async        |
+| 🟩 Generator           | 🟩 Promise double resolve      | 🟦 Pattern Reactor  | 🟩 Promise.all           |
 | 🟩 Async Generator     | 🟩 child_process               | ⬜ CAS operations   | 🟩 Promise.allSettled    |
 | 🟩 Async Iterator      | 🟩 worker_threads              | ⬜ epoll            | 🟩 Promise.race          |
 | 🟩 Thenable            | 🟩 Atomics                     | ⬜ kqueue           | 🟩 Promise.any           |
