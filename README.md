@@ -7,7 +7,7 @@
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code>
 <code>🪙 [Rates](RATES.md)</code>
 <code>👨‍🎓 [Education](EDUCATION.md)</code><br>
-<code>🧑‍💻 Languages: main: JavaScript, TypeScript / also used: Go, Scala, С#, С++</code><br>
+<code>🧑‍💻 Languages: main: JavaScript, TypeScript / also used: Go, Scala, С#, С++, Rust</code><br>
 <code>📦 Tech stack: backend: node.js, loopback, nestJS / frontend: React, React Native</code><br>
 <code>💬 telegram: [@MaksGovorrr](https://telegram.me/MaksGovorrr)</code>
 <code>📫 [maksgovruha@gmail.com](mailto:maksgovruha@gmail.com)</code>
